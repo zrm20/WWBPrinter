@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "QtpajITztQni6nZCkAF7gbD+kI9uaf0gUhSYkq3nArnURAPC4LKOsC1/r9vQtwuUJFFUZgG9EmHTUF3DGhZyYQ==",
+  "success": true,
+  "projectFilePath": "/Users/zachmccoy/Dropbox/Programming/WWBPrinter/WWBPrinter/WWBPrinter.csproj",
+  "expectedPackageFiles": [
+    "/Users/zachmccoy/.nuget/packages/esc-pos-usb-net/1.1.3/esc-pos-usb-net.1.1.3.nupkg.sha512",
+    "/Users/zachmccoy/.nuget/packages/microsoft.netcore.platforms/3.0.0/microsoft.netcore.platforms.3.0.0.nupkg.sha512",
+    "/Users/zachmccoy/.nuget/packages/microsoft.win32.systemevents/4.6.0/microsoft.win32.systemevents.4.6.0.nupkg.sha512",
+    "/Users/zachmccoy/.nuget/packages/system.drawing.common/4.6.0/system.drawing.common.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,59 @@
+C:/Users/Zach McCoy/Desktop/WWBPrinter/WWBPrinter/bin/Debug/netcoreapp3.1/WWBPrinter.exe
+C:/Users/Zach McCoy/Desktop/WWBPrinter/WWBPrinter/bin/Debug/netcoreapp3.1/WWBPrinter.deps.json
+C:/Users/Zach McCoy/Desktop/WWBPrinter/WWBPrinter/bin/Debug/netcoreapp3.1/WWBPrinter.runtimeconfig.json
+C:/Users/Zach McCoy/Desktop/WWBPrinter/WWBPrinter/bin/Debug/netcoreapp3.1/WWBPrinter.runtimeconfig.dev.json
+C:/Users/Zach McCoy/Desktop/WWBPrinter/WWBPrinter/bin/Debug/netcoreapp3.1/WWBPrinter.dll
+C:/Users/Zach McCoy/Desktop/WWBPrinter/WWBPrinter/bin/Debug/netcoreapp3.1/WWBPrinter.pdb
+C:/Users/Zach McCoy/Desktop/WWBPrinter/WWBPrinter/obj/Debug/netcoreapp3.1/WWBPrinter.AssemblyInfoInputs.cache
+C:/Users/Zach McCoy/Desktop/WWBPrinter/WWBPrinter/obj/Debug/netcoreapp3.1/WWBPrinter.AssemblyInfo.cs
+C:/Users/Zach McCoy/Desktop/WWBPrinter/WWBPrinter/obj/Debug/netcoreapp3.1/WWBPrinter.dll
+C:/Users/Zach McCoy/Desktop/WWBPrinter/WWBPrinter/obj/Debug/netcoreapp3.1/WWBPrinter.pdb
+C:/Users/Zach McCoy/Desktop/WWBPrinter/WWBPrinter/obj/Debug/netcoreapp3.1/WWBPrinter.genruntimeconfig.cache
+C:/Users/Zach McCoy/Desktop/WWBPrinter/WWBPrinter/obj/Debug/netcoreapp3.1/WWBPrinter.csprojAssemblyReference.cache
+C:/Users/Zach McCoy/Desktop/WWBPrinter/WWBPrinter/bin/Debug/netcoreapp3.1/ESC-POS-USB-NET.dll
+C:/Users/Zach McCoy/Desktop/WWBPrinter/WWBPrinter/bin/Debug/netcoreapp3.1/Microsoft.Win32.SystemEvents.dll
+C:/Users/Zach McCoy/Desktop/WWBPrinter/WWBPrinter/bin/Debug/netcoreapp3.1/System.Drawing.Common.dll
+C:/Users/Zach McCoy/Desktop/WWBPrinter/WWBPrinter/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Zach McCoy/Desktop/WWBPrinter/WWBPrinter/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Zach McCoy/Desktop/WWBPrinter/WWBPrinter/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Zach McCoy/Desktop/WWBPrinter/WWBPrinter/obj/Debug/netcoreapp3.1/WWBPrinter.csproj.CoreCompileInputs.cache
+C:/Users/Zach McCoy/Desktop/WWBPrinter/WWBPrinter/obj/Debug/netcoreapp3.1/WWBPrinter.csproj.CopyComplete
+C:/Users/Zach McCoy/Dropbox/Programming/WWBPrinter/WWBPrinter/obj/Debug/netcoreapp3.1/WWBPrinter.csprojAssemblyReference.cache
+C:/Users/Zach McCoy/Dropbox/Programming/WWBPrinter/WWBPrinter/obj/Debug/netcoreapp3.1/WWBPrinter.AssemblyInfoInputs.cache
+C:/Users/Zach McCoy/Dropbox/Programming/WWBPrinter/WWBPrinter/obj/Debug/netcoreapp3.1/WWBPrinter.AssemblyInfo.cs
+C:/Users/Zach McCoy/Dropbox/Programming/WWBPrinter/WWBPrinter/obj/Debug/netcoreapp3.1/WWBPrinter.csproj.CoreCompileInputs.cache
+C:/Users/Zach McCoy/Dropbox/Programming/WWBPrinter/WWBPrinter/obj/Debug/netcoreapp3.1/WWBPrinter.dll
+C:/Users/Zach McCoy/Dropbox/Programming/WWBPrinter/WWBPrinter/obj/Debug/netcoreapp3.1/WWBPrinter.pdb
+C:/Users/Zach McCoy/Dropbox/Programming/WWBPrinter/WWBPrinter/bin/Debug/netcoreapp3.1/WWBPrinter.exe
+C:/Users/Zach McCoy/Dropbox/Programming/WWBPrinter/WWBPrinter/bin/Debug/netcoreapp3.1/WWBPrinter.deps.json
+C:/Users/Zach McCoy/Dropbox/Programming/WWBPrinter/WWBPrinter/bin/Debug/netcoreapp3.1/WWBPrinter.runtimeconfig.json
+C:/Users/Zach McCoy/Dropbox/Programming/WWBPrinter/WWBPrinter/bin/Debug/netcoreapp3.1/WWBPrinter.runtimeconfig.dev.json
+C:/Users/Zach McCoy/Dropbox/Programming/WWBPrinter/WWBPrinter/bin/Debug/netcoreapp3.1/WWBPrinter.dll
+C:/Users/Zach McCoy/Dropbox/Programming/WWBPrinter/WWBPrinter/bin/Debug/netcoreapp3.1/WWBPrinter.pdb
+C:/Users/Zach McCoy/Dropbox/Programming/WWBPrinter/WWBPrinter/bin/Debug/netcoreapp3.1/ESC-POS-USB-NET.dll
+C:/Users/Zach McCoy/Dropbox/Programming/WWBPrinter/WWBPrinter/bin/Debug/netcoreapp3.1/Microsoft.Win32.SystemEvents.dll
+C:/Users/Zach McCoy/Dropbox/Programming/WWBPrinter/WWBPrinter/bin/Debug/netcoreapp3.1/System.Drawing.Common.dll
+C:/Users/Zach McCoy/Dropbox/Programming/WWBPrinter/WWBPrinter/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Zach McCoy/Dropbox/Programming/WWBPrinter/WWBPrinter/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Zach McCoy/Dropbox/Programming/WWBPrinter/WWBPrinter/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Zach McCoy/Dropbox/Programming/WWBPrinter/WWBPrinter/obj/Debug/netcoreapp3.1/WWBPrinter.csproj.CopyComplete
+C:/Users/Zach McCoy/Dropbox/Programming/WWBPrinter/WWBPrinter/obj/Debug/netcoreapp3.1/WWBPrinter.genruntimeconfig.cache
+/Users/zachmccoy/Dropbox/Programming/WWBPrinter/WWBPrinter/obj/Debug/netcoreapp3.1/WWBPrinter.csprojAssemblyReference.cache
+/Users/zachmccoy/Dropbox/Programming/WWBPrinter/WWBPrinter/obj/Debug/netcoreapp3.1/WWBPrinter.AssemblyInfoInputs.cache
+/Users/zachmccoy/Dropbox/Programming/WWBPrinter/WWBPrinter/obj/Debug/netcoreapp3.1/WWBPrinter.AssemblyInfo.cs
+/Users/zachmccoy/Dropbox/Programming/WWBPrinter/WWBPrinter/obj/Debug/netcoreapp3.1/WWBPrinter.csproj.CoreCompileInputs.cache
+/Users/zachmccoy/Dropbox/Programming/WWBPrinter/WWBPrinter/obj/Debug/netcoreapp3.1/WWBPrinter.dll
+/Users/zachmccoy/Dropbox/Programming/WWBPrinter/WWBPrinter/obj/Debug/netcoreapp3.1/WWBPrinter.pdb
+/Users/zachmccoy/Dropbox/Programming/WWBPrinter/WWBPrinter/bin/Debug/netcoreapp3.1/WWBPrinter.deps.json
+/Users/zachmccoy/Dropbox/Programming/WWBPrinter/WWBPrinter/bin/Debug/netcoreapp3.1/WWBPrinter.runtimeconfig.json
+/Users/zachmccoy/Dropbox/Programming/WWBPrinter/WWBPrinter/bin/Debug/netcoreapp3.1/WWBPrinter.runtimeconfig.dev.json
+/Users/zachmccoy/Dropbox/Programming/WWBPrinter/WWBPrinter/bin/Debug/netcoreapp3.1/WWBPrinter.dll
+/Users/zachmccoy/Dropbox/Programming/WWBPrinter/WWBPrinter/bin/Debug/netcoreapp3.1/WWBPrinter.pdb
+/Users/zachmccoy/Dropbox/Programming/WWBPrinter/WWBPrinter/bin/Debug/netcoreapp3.1/ESC-POS-USB-NET.dll
+/Users/zachmccoy/Dropbox/Programming/WWBPrinter/WWBPrinter/bin/Debug/netcoreapp3.1/Microsoft.Win32.SystemEvents.dll
+/Users/zachmccoy/Dropbox/Programming/WWBPrinter/WWBPrinter/bin/Debug/netcoreapp3.1/System.Drawing.Common.dll
+/Users/zachmccoy/Dropbox/Programming/WWBPrinter/WWBPrinter/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/zachmccoy/Dropbox/Programming/WWBPrinter/WWBPrinter/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/zachmccoy/Dropbox/Programming/WWBPrinter/WWBPrinter/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/zachmccoy/Dropbox/Programming/WWBPrinter/WWBPrinter/obj/Debug/netcoreapp3.1/WWBPrinter.csproj.CopyComplete
+/Users/zachmccoy/Dropbox/Programming/WWBPrinter/WWBPrinter/obj/Debug/netcoreapp3.1/WWBPrinter.genruntimeconfig.cache
